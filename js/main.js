@@ -50,4 +50,4 @@ sr.reveal('.img',{interval: 400})
 sr.reveal('.work__img',{interval: 200})
 
 //   scroll contact
-sr.reveal('.links a',{interval: 200})
+sr.reveal('.links',{interval: 200})

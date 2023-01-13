@@ -330,6 +330,8 @@ img{
   text-align: center;
   font-weight: var(--font-semi);
   padding: 2rem 0;
+  height: 15vh;
+  margin-top: auto;
 }
 .footer__title{
   font-size: 1rem;
