@@ -8,4 +8,4 @@ my personal Portfólio
 
 ## Deploy
 
-Acesse:
+Acesse: https://aryelportfolio.netlify.app
